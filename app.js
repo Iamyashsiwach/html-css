@@ -105,5 +105,5 @@ menuItems.forEach((item, index) => {
       color.style.backgroundColor = choosenProduct.colors[index].code;
     });
   });
+  
 });
-
